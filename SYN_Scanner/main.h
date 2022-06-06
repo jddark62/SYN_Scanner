@@ -1,7 +1,3 @@
-//
-// Created by nssha on 31-05-2022.
-//
-
 #ifndef SYN_SCANNER_MAIN_H
 #define SYN_SCANNER_MAIN_H
 
